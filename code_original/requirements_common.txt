@@ -1,0 +1,23 @@
+# package needed in a python 3.7 env
+# conda create -n your-env-name python=3.7
+# conda activate your-env-name
+# pip install -r requirements_common.txt
+bs4
+gym
+keras==2.2.4
+lxml
+jupyterlab
+matplotlib
+numpy
+opencv-python
+pandas
+pyvista
+pydmd
+pyyaml
+sklearn
+scikit-optimize
+scipy
+seaborn
+tensorflow<2
+tensorflow-gpu<2
+tqdm
